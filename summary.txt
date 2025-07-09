@@ -1,0 +1,23 @@
+Number of Penguin books: 7728
+
+Summary Statistics:
+
+             price        stars        reviews
+count  7728.000000  7728.000000    7728.000000
+mean     12.162509     4.479878    1499.232402
+std       6.384062     0.475147    9874.926435
+min       0.000000     0.000000       0.000000
+25%       8.990000     4.400000       0.000000
+50%      10.990000     4.600000      43.000000
+75%      13.990000     4.700000     706.250000
+max      93.990000     5.000000  618227.000000
+
+
+Top keywords in Penguin book titles:
+
+10, america, american, art, big, body, book, brain, complete, cookbook, death, del, dk, edition, el, en, eyewitness, food, guide, healing, health, history, la, las, life, living, los, love, man, memoir, mind, modern, mystery, new, novel, para, people, power, que, recipes, science, series, spanish, story, time, travel, true, war, way, world
+
+
+RMSE on test set: $6.60
+
+MAE on test set: $3.68
